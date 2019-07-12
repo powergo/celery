@@ -2,4 +2,4 @@ pytz>dev
 billiard>=3.3.0.23,<3.4
 # This is the real one: git+https://github.com/resulto/kombu.git@v3.0.37.python3_7#egg=kombu
 # This one is to make setup.py happy
-kombu>=3.0.37,<3.1
+kombu==3.0.37.python3_7
